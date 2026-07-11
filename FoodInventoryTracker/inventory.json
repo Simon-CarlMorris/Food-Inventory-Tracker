@@ -1,0 +1,17 @@
+[
+    {
+        "name": "apple",
+        "amount": 4,
+        "best_before": "2026-07-04"
+    },
+    {
+        "name": "bananna",
+        "amount": 5,
+        "best_before": "2026-07-08"
+    },
+    {
+        "name": "orange",
+        "amount": 3,
+        "best_before": "2026-07-10"
+    }
+]
